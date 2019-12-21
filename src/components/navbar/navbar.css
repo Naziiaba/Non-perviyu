@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
+Nav {
+ 
+    width: 100%;
+}
+.navbar {
+    /* background:#4574c5; */
+    width: 100%;
+    list-style-type: none;
+}
+/* .navbar-fixed-top {}
+NavItem Link {
+    margin: 10;
+    padding: 0;
+    line-height: 1;
+    display: block;
+    zoom: 1;
+    color: black;
+} */
+
